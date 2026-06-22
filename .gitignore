@@ -1,0 +1,9 @@
+outputs/frontend/node_modules/
+outputs/frontend/dist/
+outputs/backend/analysis_standards.db
+outputs/backend/uploads/
+outputs/backend/app/__pycache__/
+work/
+
+__pycache__/
+*.pyc
